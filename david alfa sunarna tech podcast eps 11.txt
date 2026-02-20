@@ -1,0 +1,1263 @@
+0:00
+Halo teman-teman, jumpa lagi di podcast gua. Kali ini gua dikeroyok sama programmer. W ada Adit sudah kenal ya
+0:06
+semuanya ya. Programmer ganteng yang satu ini yang suka menghina pemerintah.
+0:11
+Sekarang udah enggak berani lagi gua. Kan ada undang-undang baru kan. Oh iya yang itu kan yang kalau ee
+0:18
+berzina dengan yang bukan itu terus dipenjara itu kan.
+0:23
+Beda ya yang apa eh apa kalau menghina ya. Iya menghina institusi ya. Tapi, tapi gua enggak menghina sih.
+0:30
+Mengkritik. Mengkritik. Nah, kita kenalin juga nih ada Pram. Benar. Iya, benar.
+0:35
+Nah, ada Rey. Dia juga programmer. Kebetulan partnernya dari Adit. Teman-teman, gua banyak mengamati nih
+0:41
+dari content creator IT kan cuman kita-kita ya. Iya. Iya. Bisa dihitung jari lah ya.
+0:47
+Iya. Gua juga enggak IT-IT banget. Ee banyak yang orang enggak suka kalau bahkan gua ngonten IT.
+0:53
+Apa nih? Imnen, impen lagi baru mulai dibahas impen.
+1:00
+Lu juga habis ribut kan? Ee sebenarnya lebih ke individunya aja sih. Gua enggak satu grupnya.
+1:07
+Oke, nanti kita bahas. Oke, gua mau bahas dulu. Kenapa postingan real lu endor semua? Anjir. Mana edukasi
+Kenapa Adit Jarang Upload Video?
+1:14
+IT lu? Mana? Jadi tepat di tanggal berapa ya sekarang? 20 eh tanggal berapa sekarang?
+1:20
+Sekarang tanggal 17. 17 Januari 2026. Jadi terhitung sejak 2 bulan terakhir gua postingannya endorse
+1:27
+mulu. Iya kan? He. Nah, itu karena ya gua lagi ngerjain produk yang gue ceritain sama lu itu.
+1:33
+Oh, jadi lu fokus coding? Gua fokus coding. Plus juga kan kita ee lagi ngerjain project orang lain juga
+1:38
+ya. Salah satu influencer ya. Gua gua sebut nama lah Mantapu lah ya. Oh. Mantapu Akademi kan sama kita bikinnya.
+1:44
+Heeh. Nah, jadi ee kurang lebih empat udah 4 bulanan ini ya. 4 bulanan ini tuh kita
+1:51
+lagi habisin waktu ke sana dulu. Nah, pada akhirnya kan energinya kebuang ke situ buat lu ngonten lagi kan susah.
+1:57
+Benar enggak? Gua enggak tahu kalau lu ngerasain apa enggak ya. Misalnya ini lu lagi sibuk sama satu hal project yang
+2:03
+ibaratnya energi lu banyak habis ke sana. Nah, terus lu tiba-tiba pada hari yang sama disuruh ngonten kan lu agak
+2:08
+susah gitu buat ngikutin isu yang lagi terbaru sama mikirin ide konten yang bagus tuh apa gitu. Gua enggak ngerti
+2:14
+sih maksudnya kalau lu ngerasain enggak kalau gua kayak lu sama. Iya kan sama. Tapi Mantapu, lu memilih Adit
+2:20
+enggak salah orang yang tepat. Thank you lah. Kita bonusin AI juga itu di dalam itunya
+Project Mantappu Academy & Fitur AI
+2:26
+platform apa yang kej enggak boleh disebut ya. NDA ya. Ee enggak enggak enggak masalah malah malah ee si Jerom senangnya dikasih tahu
+2:33
+apa tuh ee buat Mantap Akademinya. Mantapu Akademi kan udah learningnya. Eh,
+2:38
+jadi video streaming kayak gitu enggak apa kita bilangnya ee LMS apa lu yang lebih tahulah lu yang ngedalemin
+2:44
+ini lu ngomong dongak anjir. Iya. Salah satu fitur AI yang kita pakai
+2:50
+tuh yang salah satunya diimpor fitur tryout I latex itu buat import soal tryoutnya
+2:56
+latatex itu buat ee bahasa buat di apa kalau di kode itu bacanya tuh lateks
+3:02
+untuk matematika ya notasi matematika gitu Bang oh buat AI-nya lu baca notasi matematika gitu
+3:07
+tapi Mantapu Akademi ini sendiri adalah platform pembelajaran gitu platform pembelajaran jadi ee dia jual
+3:13
+course-nya di situ terus sama tryout-nya juga di situ. Keren projek kalian. Pantesan lu enggak ngoding sih.
+3:18
+Iya, makanya. Jadi eh ya gua minta maaf ya, tapi ada kok sesekali cuman
+3:24
+sesekalinya julit doang sih si karena lu sama sama gua ya. Karena yang pertama kita kan enggak punya tim yang
+3:32
+seberapa banyak kan ids masih datang dari kita. Dan kalaupun lu punya tim seberapa banyak lu juga enggak bisa lepas tangan
+3:38
+kan. Betul. Maksudnya ini juga dibayar bukan yang gratis gitu loh. Iya gua sih sudah mulai ngonten entertainment lu belum soalnya. Makanya
+3:44
+agak susah kan kalau gua kan kadang bisa lucu-lucuan aja ngosting-masing motor atau enggak jelaslah pasti bisa jujur. Nah itu gua
+3:50
+pengin belajar dari lu tuh podcast kita ini kita tanya-tanyaan aja L ya. Iya boleh boleh. Jadi kali ini tuh kita akan ee apa ya maksudnya host-nya bukan
+3:59
+David doang semuanya host. Semuanya host. Gua kalau mau tanya tanya aja Bang programmer bisa belajar ngomong.
+4:05
+Iya makanya gua ajak ke sini. Sama satu lagi sebenarnya ini juga apa
+4:10
+ya mungkin nginfoin aja ya kita tuh ee mau ada juga program sama Def Rizal.
+4:16
+Oh respect itu apa? Gua tuh pengin gua tuh pengin ngasih ngajak lu cuman kan karena jauh kan.
+4:22
+Kalau gua sih mau reguleran Sabtu Sabtu Minggu ke Bandung. Iya iya. Nah jadi tuh ya kita mau bikin kayak
+4:29
+obrolan bebas kayak gini enggak ada apa ya istilahnya tuh enggak ada apa sih
+4:34
+brief. Enggak ada, enggak ada brief, bukan enggak ada topik, enggak ada yang tertentu gitu yang harus kita bahas. Tapi yang penting isinya programming.
+4:40
+Eh, isinya programmer. Ya udah ngobrol aja kayak Green Boys gitu loh. I, tapi all about IT lah gitu yang mungkin
+4:46
+jok-joksnya nanti kita selip-selipin masalah IT gitu-gitu. Iya. Iya. I joks-joks wibu ya. Nah, makanya
+4:52
+makanya ini ibaratnya ee apalah apa sih istilahnya tuh ya trialnya trial ya. gua support lah nanti gua
+4:59
+diundang juga bolehlah nanti gua isi. Tapi anyway jujur ya di gua respect banget sama Dea.
+Hobi, Personal Branding & Dea Afrizal
+5:05
+Benar tuh orang tuh orang keren. Lu enggak salah pilih tuh. Keren tuh orang keren. Dan dia berani bahas yang agak ke
+5:11
+kanan-kanan ke kiri-kiri juga dia masih berani tuh. Iya dia masih berani dia. Oke. Dan dia juga udah mulai ngelebarin
+5:16
+ke entertainment sekarang. Jadi dia mulai posting hobi dia. Iya benar. Enggak IT aja sih dia.
+5:21
+Kayaknya lu harus kayak enggak tahu ya. Iya lu cari hobi lu udah mau nikah sih ya. Dulu kan mobil
+5:27
+lu kan ee apa ya? Dapetin cewek kan udah enggak bisa kan
+5:33
+gitu Mas dia enggak tahu susahnya nyari cewek gimana. Masa sih? Masa sih?
+5:39
+Enggak. Enggak. Terus terus lu harus belajar dari hobi lu. Hobi lu apa? Kalau Dea kan enggak usah gua lah. Dea kan misalkan
+5:45
+dia jago ee IoT ya bisa disebut ya dan building things ya related to IoT
+5:52
+sama motor juga dia. Heeh. Real TOOT dan teknologi. Jadi kayak dia build RC sendiri, build drone
+5:58
+sendiri dan dia tunjukin prosesnya gitu. Ee terus dia juga suka motor trail-trailan
+6:03
+tuh. Masalahnya gue juga enggak ada hobi ya. Hobinya ngoding. Hobinya ngoding.
+6:09
+Lu serius? Lu enggak punya hobi lain? Ada dua ngoding sama nongkrong. Bang nongkrong
+6:14
+bukan salah lu. Ngoding sama Apex. Oh iya Apex. Apex. Apex Legend. Cuman kan kalau Apex Legend
+6:20
+di konten ini gua enggak enggak kenal lah orang enggak mau nonton. Tapi kalau ngoding gua ngeditnya
+6:26
+susah. Misalnya nih gua gua gua senang kayak research gitu loh. Heeh. Jadi misalnya kalau kayak nah nanti kita
+6:32
+bahas FPI rapping tuh yang lagi dibahas di IMN juga katanya e apaan bikin IT sendiri itu mah rapping
+6:39
+gitu gitu loh. Iya iya iya. lagi dibahas tuh di imnen. Nah, gua lagi senang ngulik-ngulik ee
+6:45
+apa ya ibaratnya gimana lu nge-develop AI sendiri gitu-gitu loh. Karena
+Mengulik Pengembangan AI & API Wrapping
+6:51
+sebenarnya enggak sesederhana lu cuman rapping API, tapi juga di tengah-tengah itu tuh banyak proses yang lu lakuin
+6:56
+gitu loh. Kayak misalnya lu bisa kirim email, lu bisa kirim WhatsApp, lu bisa baca Google Kalendar segala macam ya itu
+7:03
+ya itu yang lagi gua hobiin sekarang gitu loh. Tapi menurut gua ya, Dit, dari perjalanan lu nguli ke aa itu kayaknya
+7:10
+harus tetap dikontenin. Kalau menurut gua ya, benar. Ngeditnya kalau gua kasih solusi, lu harus mau
+7:15
+enggak mau sewa editor. Mau enggak mau lu harus ajarin dulu lu ekstra spend satu du hari buat ngajarin
+7:22
+dia sih. Karena kalau enggak lu kontenin, sayang gua gua ngerti kapabilitas lu. Lu
+7:28
+kemarin ngobrol sama gua sama Sidik kemarin masalah ee kita kayak nyambung banget gitu kan. sayanglah
+7:34
+kalau teman-teman di luar enggak ngerti. Benar sih R0.000 doang lagi satu video. Apanya tuh?
+7:40
+Bayarnya orang ya. Makanya lah lu edit. Maksudnya kayak
+7:45
+gua tuh ama banget sama konten lu yang dulu komin mau buat search engine sendiri. Nah lu kan bisa ngejabarin tuh
+7:52
+buat search engine itu susah anjir. Nah bedanya gini. Kalau dulu tuh enak kita digaji sama perusahaan. Kan dulu
+7:59
+gua masih karyawan. Oh gila. J energi gua tuh pas pulang kerja itu udah aman. Iya,
+8:04
+kayak cadangannya tuh banyak. Kalau sekarang energi gue tuh gua udah habis sama duit-duit yang rezeki harimau ini
+8:11
+yang enggak tahu kapan rezeki harimau.
+8:17
+Terus ya gitu. Akhirnya kan kayak udah capek seharian itu tuh kayak gua tuh kerja bisa sampai 18 jam sehari gitu-gitu.
+8:24
+Jadi kayak energinya udah habis semua di kerjaan yang duit-duit kecil-kecil yang harus kita kumpulin buat bisa bayar
+8:31
+rumah, bayar mobil gitu-gitu sih. Duit-duit kecil nih maksudnya apa? Lu ngerjain kecil maam. Salah satunya endorse.
+8:37
+Salah satunya endorse. Oke. Lu juga energi lu habis diendorse yang pertama. Iya dong. Maksudnya kan
+8:42
+harus mikirin kan karena kan enggak bisa sesuka gua. Iya. Brief-nya kan kadang-kadang kita sudah ngasih bagus nih tetap pasti ada revisi
+8:48
+kan. Iya. Nah, itu tuh tuh kayak ngabisin waktu lumayan banyak energi terus e
+8:54
+meeting-meeting sama klien, terus ngoding juga karena kan gua masih dirty hands juga bareng sama mereka kan.
+8:59
+I terus gue juga ngerjain yang ini yang produk AI gue sendiri ini gitu loh. Iya. Jadi mengerjakan sat ee di satu waktu
+9:07
+mengerjakan banyak pekerjaan pada akhirnya energinya jadi kayak buat ngonten ini tuh benar-benar yang udah
+9:13
+habis banget gitu. Nah, kalau kalau menurut gua ya ee lu siapin satu
+9:19
+hari aja kayak gua dulu nih. Gua juga dulu sama karena gua tuh sadar nih di
+9:24
+ini gua ngonten IT terus ini follower gua mentok segini kan anak jumlah anak IT itu cuman segini njir.
+9:31
+Tapi bedanya kalau lu ba el gua rezekinya segini-gini aja
+9:36
+enggak gitu bahasnya rezeki susah. Ya udah, udah. Terus terusak.
+9:42
+Terus ekonomi anjing. Terus terus enggak. Jadi ee awalnya gua ngonten sama
+9:48
+istri tuh kan ee enggak Harley juga kan. Awalnya kan kocak-kocak. Ini caranya diusir istri gua bawa
+9:53
+awalnya gua malu Jack. Gua malu gua ngelihat anjir masa diri gua begini gitu.
+9:59
+Tapi gua sadar ya ini kan entertainment. Tuh lu kalau enggak kenal David tuh pasti mikirnya gitu. Kayak ini orang PD
+10:05
+banget sih pas ketemu aslinya. Dia pun malu sebenarnya. Iyaah. Gila kali istri gua aja diajak
+10:10
+gini, "Ayo ngonten." Enggaklah. It's not me, it's not this. Yang bayar cicilan lu siapa? Gitu.
+10:16
+Berangkat kita semua ngonten. Terus ya akhirnya sampai viral-viral gitu. Dan gua sekarang ngresearch orang. Bahkan
+10:22
+Kak Ala datang, "Kak, lu nonton edukasi gua apa ngelawak gua?" "Enggak sih, gua enggak pernah nonton edukasi lu. Gua nontonin kisah istri
+10:29
+anjir nih orang-orang." Iya ya. Iya. Karena itu lebih kayak engaging dan fun
+10:34
+fact-nya ya, teman-teman IT pun kenal gua. Istrinya mana, Bang? Istrinya mana? I benar. Lama-lama kayak
+10:40
+atau Harley lu mana, Bang? Iya, kayak gitu. Harley lu mana, Bang? Wah, se seb se seb se begitu ngaruh ya
+10:45
+personal personal branding dan dan gua juga udah sharing ini ke dia, lu lanjutin aja ya. Karena ya hobi itu hobi
+10:51
+itu keren. Tapi kalau gua saran ke lu ya, lu harus siapin di satu hari lu ceritain AI. Karena daripada yang
+10:56
+dianggap jago AI ini orang yang enggak jelas, mendingan el.
+11:02
+Eh, gua enggak nuduh orang ya. Benar. Apa sih? Kan kita coba ngasih tahu.
+11:08
+Iya kan kita kan kita menebakasa menebak yaudah semua teman kita loh. Semua teman kita
+11:14
+hati-hati loh. Iya harusnya gua pengin lah lu lah jadi expert AI gitu yang benar-benar hands on ngebuat model
+11:20
+sendiri. Iya sih gitu Pak. Ayo Pak lah ngonten Pak. Gua kangen konten-konten gua dulu nonton El
+11:25
+pas lu masa iya pas lu masih gede dari gua anjing. Oh pas di TikTok. Jadi dia ini
+11:33
+dia ini dulu di TikTok tuh ee jauh-jauh banget di bawah gua. Dia masih R.000-an loh ya.
+11:38
+Iya 100.000-an gua tuh udah 400 bagus banget kontennya. Nah sekarang tuh wah enggak ada udah
+11:45
+sampah doang. Enggak tapi gua rindu lu yang dulu sih. Lu harus membangkitkan itu, Bro. Karena ya balik lagi sih karena memang
+11:52
+ee pada saat kita punya mental karyawan itu kan apa-apa semuanya tenang ya. Iya. Iya.
+Mental Karyawan vs Mental Pengusaha
+11:57
+Terus kayak keuangan segala macam. Jadi menurut gua tuh ketika pengin ngelakuin sesuatu hobi itu
+12:04
+kalau apa ya secara psikis lu udah bagus dulu ya lu pasti kayak ngasilin karya
+12:11
+tuh bagus semua gitu kan ngerti iya kan nah sekarang keadaannya ya memang karena gue juga dulu 2 tahun yang lalu kena lay
+12:18
+segala macam ya sekarang mentalnya tuh mungkin gua lagi berusaha untuk beradaptasi dengan mental wirausaha
+12:25
+iya gitu karena kalau el kan udah lama kan maksudnya mau lebih daripada
+12:32
+nah gua lagi baru mencoba itu 2 tahun belakangan ini hampir 3 tahun lah gitu. Tapi memang yang gua pelajarin ya
+12:38
+nanti teman-teman juga bisa nambahin kalau wirausaha sih harus lebih allarnya gitu. Benar.
+12:43
+Harusnya lu dua kali dari yang kemarin. Gua enggak nasihatin lu ya menurut gua ya. Harusnya lu dua kali konten karena
+12:49
+anjir konten dia gua sebenari nonton anjir. Wih lagi ngomongin opung
+12:55
+seru banget anjir. I lagi iya lagi gua gua juga kangen gua yang dulu sih. Iya iya ke mana lu yang dulu? Wah gitu.
+13:02
+sekarang kalau ngonten ya teman-teman saya ada produk ini anjay endorse the best
+13:08
+jadi guys karena kan sharing ya maksudnya tidak dia tidak lagi mandatory
+13:13
+jadi host di sini jadi gantian juga gua sekarang makanya sekarang gua tanya
+13:18
+nih gua pertama kali juga nih jadi host podcast gitu nanti gantian lah ya lu lu kalau ada ma nanya nanya dia
+13:25
+gini pit gua kan nilai el ya tapi enggak apa-apa ya maksudnya gua sebelum bertanya gua
+13:30
+nge-judge dulu tapi nanti lu karif Ikasi. Betul. Oke. Lu tuh kan PD-nya
+13:37
+kebangetan ya menurut gua. Iya kan? Iya. I i iya kan?
+13:43
+Ee di sisi lain gua tuh sebenarnya salut dengan orang-orang yang seperti itu. Heeh. Karena biasanya orang-orang yang seperti
+13:50
+itu tuh yang lebih cepat sukses daripada orang-orang yang tipenya itu ya mungkin kayak gua idealis kebanyakan mikir
+13:55
+segala macam gitu ya. Iya. Justru orang-orang yang kayak El ini yang ibaratnya ee lebih bagus dalam
+14:03
+urusan bisnis ya gitu ya. Nah, gue gua gue pengin tahu
+Pentingnya "Showcase" & Percaya Diri
+14:08
+nih maksudnya seperti tadi yang lu ceramahin gua mengenai kayak kalau belum siap ya maksudnya lu enggak tahu kapan
+14:15
+siap untuk ng-launching produk dan gua tahu el adalah orang dari kebalikan gua.
+14:20
+Hm. El pasti orang yang PD aja dulu jalanin. Iya. Nah, El enggak mikirin resikonya apa
+14:26
+gimana? resiko kalau produk itu gagal ya. Bukan gagal doang, customernya ngerasa kayak wah sampah ini atau gimana. Nah,
+14:33
+itu lu menanggulanginya gimana? Ee karena gua memamerkan sesuatu yang
+14:38
+kalau gua udah showcase Hm. Itu antara dua. Oke. Udah dijual atau udah ada customernya?
+14:45
+Heeh. Eh, belum dijual atau udah ada customernya. Misalkan misalkan gua selalu, gua kan bukan selalu
+14:50
+gembar-gembor ya. Ya, ya. Lu bilang guang gua gua gua PD ya. Gua ngomong Bor tahun ini bakal ada
+14:57
+ee SEO yang dicreate sama AI lagi gua buat. Heeh. Lagi yang kedua gua bakal buat web
+15:04
+builder yang lu tinggal prom nanti jadi lagi gua buat. Oke. Nah, tapi kan belum gua jual.
+15:09
+Iya. Heeh. Nah, gua pamerin prosesnya gimana gua cara buatnya. Oke. Nah, itu kan gua pengin orang-orang nih
+15:15
+tahu nih. Jadi, misalkan yang ee AI agen SEO tuh gimana perjalanan gua he
+15:21
+ee ngebuat itu nanti sampai rilis. Sekarang pun sudah dibuat sama AI e artikel SEO-nya di Web Exper
+15:28
+oke udah udah jadi. Nah, yang kedua ee misalkan gua ngomong nanti single prom jadi website. Nah,
+15:34
+bentar dulu. Itu lu ngoding sendiri apa ada tim? Gua jujur partneran sama orang. Oke. Nah, gua
+15:40
+berarti ada ada tim sendiri lah ya. Iya. Iya. I. Jadi gua ada teman gua rest orang-orang buat partner yang agentik
+15:45
+kayak gua partner sama ini gua partner sama sinkro lah yang yang punya Kakala tuh yang SEO agentik
+15:51
+Alamanda Santika. Alamanda Santika. Terus yang kedua nanti ada ada teman lah, ada anak Indonesia yang hebat. Gua mau undang podcast juga
+15:58
+dia buat ee LLM lah, buat bisa macam-macam, bisa generate image, bisa macam-macam. Dia dia ngertilah modelnya.
+16:04
+He. Nah, itu sih. Jadi itu perjalanan yang gua pengin tunjukin seben lu ngelihat gua PD atau enggak justru Dit lebih PD
+16:11
+gua dulu awal-awal daripada sekarang. Maksudnya bedanya gimana? Maksudnya PD awal-awal dulu itu el lebih lebih
+16:18
+kasarnya gua ngomong lu lebih bullshit dulu daripada sekarang gitu. Yes. Yes. Lebih gila kayak
+16:24
+ee sekedar contoh ya. Hm. Contoh sekedar kayak apa ya? Ee kalau
+16:30
+dibilang ya, sekedar kayak gua berangkat kerja aja, gua kontenin dulu. Iya. Iya kan?
+16:36
+Iya. Iya kan? Gila enggak? Gila. Gua sekarang enggak bisa kayak karena mau enggak mau kan ccle gua udah naik.
+16:42
+He. Dulu ccle gue siapa, Bro? Oke. Ya ampun, kalau ada teman gua lulusan
+16:47
+luar negeri cerita circle lu ini, anjing. Circle gua lulus SMA aja kagak. Dulu kan banyak circle gua yang nah
+16:53
+circle gua naik enggak bisa gua. Sekarang agak malu gua. Jadi harus pilah-pilah juga. Dan
+16:58
+semenjak banyak brand yang apa tuh narik-narik tangan kan jujur aja ya enggak bisa ngonten ee
+17:05
+sepede dulu, sebebas dulu enggak bisa. Nah, apa yang membuat gua ee tetap PD di
+17:12
+karena menurut gua konten itu udah jadi kerjaan gua. Jadi you either you do it or you die aja or you enggak perform.
+17:18
+Jadi se lu sekarang kalau mau di kasih predikat lu mau dibilang content creator
+17:24
+atau bisnisman gua ya. He content creator. Content creator. Content creator. Lu enggak malu sama itu karena
+17:30
+enggak malu karena semua bisnis gua datang dari content creator. Gua ditawanin seseorang dengerin projject ABC karena dia ngelihat konten
+17:36
+gua. Iya. I karena dia percaya karena kan kalau kayak youtuber malu dibilang youtuber.
+17:43
+Waduh. Enggak. Tapi banyak loh dulu. Iya kan aku bukan youtuber lah gitu apalah gitu
+17:49
+katanya. ya enggak bisa dipungkiri engagement dan personal branding yang kita punya sekarang membuka berbagai
+17:56
+macam peluang bisnis untuk kita. Oke ya. Jadi makanya gua you either do it atau lu enggak perform
+18:03
+kalau lu bilang gua ini memaksa diri gua enggak buat menghadirkan podcast ini. Iya Dit.
+18:08
+Gua ngontakin orang banyak loh. Enggak cuman lu buat ngajakin podcast loh. Benar. Nah itu yang gua enggak bisa tuh.
+18:14
+Iya, karena gua gua harus gua dulu kayak gitu kayak ah pas mereka aja lah, pas
+18:19
+ada partner gua aja ngadirin tamu kok podcast gua sebulan sekali. I karena mereka kan juga sibuk ee Sidq dan
+18:26
+Opan ya. Respect to mereka, mereka kerja. Cuman enggak bisa nih 2026 kayaknya gua harus mulai
+18:32
+ngejar industrial nih. Gua tiap minggu harus ada. Kemarin gua jalan ya ee teman-teman kameraman di
+18:38
+sini tahu gua pulang liburan memaksa diri ee ngada ngundang Teresa buat
+18:44
+podcast juga dia di BSD kemarin. Lihat cakep lu lihat semua.
+18:50
+Jujur ya. Iya jujur ya ijur. Enggak gua udah punya bini gua enggak bisa ngomong gini
+18:55
+gua punya. Ee terus tadi gua sebelum mulai ini gua juga memaksa diri gua buat ngonten.
+19:02
+Serius gua memaksa diri gua kalau dibilang ya. Heeh. Tapi Sabtu kan algoritma anjlok.
+19:07
+Sabtu kan ya memaksa diri gua kan buat syuting konten. Gua enggak postnya sekarang. Oh. I ya i. Terus
+19:13
+ya ya itu gua harus memaksa diri gua karena gua juga kadang sadar ya walaupun kita gua aman ya e secara finansial tapi
+19:20
+kan gua sadar k tidur wah ada anak ada istri gua gitu. maksudnya anak gua nanti kuliah, nanti apa kalau gua enggak
+19:25
+bekerja ngonten, kalau gua enggak ee ngjarin project baru ee apa nih yang bisa dikolaborasikan
+19:33
+dari bidang IT juga dan ngejadin uang-uang itu ya gimana gitu. Enggak
+19:38
+enggak enggak bisa juga. Dan gua udah menganggap ini ee bagian dari kerjaan gua dan kemarin
+19:44
+gua rekap tahunan ya panelnya konten juga udah sama bisnis gua. Hm.
+19:50
+Udah hampir gua buka aja udah hampir 50-50 sama bisnis gua yang lain. Jadi,
+19:55
+wah ya ini udah serius nih. He. Karena dulu enggak menghasilkan. Iya. I jadi 300.000 pertama konten gue itu
+20:02
+enggak ada endorse. 300.000 followers apa gimana? 300.000 followers pertama tuh udah hampir hampir enggak ada endorse lah.
+20:08
+Kecil banget lah. Karena gua juga pas di endorse gua enggak niat sembarangan banget. Hm. Asal bikin aja gitu.
+20:13
+Asal wah ngacau banget ya. Pokoknya brandnya pasti sebel. Maaf ya brand-brand awal-awal ya. Karena gua enggak memandang itu bisa jadi duit
+20:19
+gitu. Lama kelamaan anjir. Karena karena lu dulu enggak tahu red kali. Enggak tahu juga. Iya enggak tahu. Dan
+20:26
+ya kalau sekarang sudah tahu red jadi kayak lu udah tahu nih gede duitnya gitu. Iyalah bukan gede lagi anjir. Itu itu
+20:32
+yang dipinginin anak-anak muda sekarang kan. Iya betul. Ngecap sebentar dapat duit kan. Iya benar gitu Pak. Kalian pengin ditanyain enggak
+20:40
+sama Mbah David? Silakan. Terkait ngonten sih Bang. He. Ee, lu ada stok konten enggak sih, Bang?
+20:47
+Buat di pos kapan? Kapan kapan? Enggak ada. Enggak ada. Berarti emang kayak tag hari ini buat di pos lusa gitu.
+20:53
+Ee sekarang lagi buat nih ee stok konten tapi gua jarang sori gua jujur banyak
+20:59
+bolong konten itu. Hm. Enggak ada kayak misalkan nih Heeh. Kita ngomongin Ibnu Ibnu Wardani aja ya.
+21:06
+Iya. Oke. Dia punya stok konten mungkin 1 bulan ke depan aman. Hm. Gua enggak ada konten besok aja masih
+21:13
+kosong. Fresh berarti, Mas. I fresh. Iya. Ee dan gua enggak bisa kayak nyimpan sesuatu terus enggak buru-buru
+21:20
+gua keluarin gitu. Sama sama kalau itu. Ih jelek banget. Ngapain orang ini lagi bagus kan pasti kayak gitu kan.
+21:26
+Kalau bisa sehari tiga kali nih kalau ada tiga. Kalau lagi bahas bahlil gitu ya lu langsung.
+21:31
+Gua enggak pernah bahas bahlil bro. Sumpah gua enggak pernah bahasa udah udah lu bahas.
+21:36
+Contoh ya guys. Iya contoh ya. Contoh. Terus apa lagi nih? Ya kan bilang enggak ada stok ya. Tapi kalau bisa mentok gitu
+21:43
+biasanya Bang Dit ngapain sih mentok apa udah mentok nih. Oh mau bikin apa lagi gitu. Oke. Ee yang pertama
+21:51
+rajin lihat konten orang lain. Oh jadi referensi gitu Bang. Iya. Oh boleh nih buat ide yang bisa gua
+21:57
+stitch gitu. ya, mana yang bisa gua stis, mana yang bisa gua komentarin ee dari dinamika konten orang Indonesia
+22:03
+yang enggak pernah berhenti itu. Dan gua juga pilih-pilih bisa misalkan kayak kasus Timoti Ronald sekarang ya,
+22:09
+gua enggak gua enggak merin ikut campurlah karena ada teman gua juga e kenal lama juga dan gua takut ngomong
+22:15
+salah dan karena bisa jadi kolega ya. Iya. ee siapa tahu kita ke depannya bisnis barang atau siapa tahu memang
+22:22
+dia salah beneran tapi gua ngomong yang semakin memberatkan hukuman dia atau gimana kan kita kan enggak ngerti ya
+22:29
+iya dan itu juga masih kontroversi banget nah gitu-gitu gua enggak ini korbannya nih
+22:34
+ah iya ini salah satu korban korban ikut ikut dia bayar berapa puluh juta dia p juta ya
+22:39
+iya iya gua enggak berani dulu kalau mau testimoni di sini
+22:46
+podcast gua jadi A dong kan ngikutin guru kelasnya.
+22:52
+Hm. Siapa tuh? Dior siapa sih? Enggak. Do your own research. Iya. Do your own research.
+22:58
+Oke. Jadi, tapi orang Indonesia mana mau begitu. Pasti mau cari signal. Udah pasti sih, Bang. Kebanyakan gitu
+23:05
+ya, kayak kripto terus saham apalagi tuh. Iya. Kan banyak yang FOMO ya. Enggak belajar
+23:11
+kayak fundamental nih saham tuh bagusnya gimana, dibeli karena apa? Karena ya orang Indonesia mal harus baca sih
+23:17
+sesimpel itu. Iya. Pasti ngikutin signal ini beli pada beli terus nih enggak
+23:22
+pada enggak beli. Iya gitu kan. Dan ya ini kita bahas codingan aja yuk.
+23:29
+Iya iya i kita skip. Iya kita skip. Oke. Sekarang lu lagi ngerjain projek
+23:35
+apa Pak ini? Nah itu dia tuh menarik tuh. Jadi mungkin agak aneh mungkin penonton lu
+Cerita Terbentuknya Tim & Komunitas Saga Studio
+23:40
+kok gua bawa orang. Iya ya kan? Jadi sekali e selain tadi yang
+23:46
+defizal eh ya gua juga apa ya gua orangnya tuh senang ketika gua punya circle dan gua
+23:52
+terust sama circle gua itu gua pengin angkat mereka juga. Oke. Gua gua pengin kayak gitu ya. Salah
+23:57
+satunya mungkin ya walaupun mungkin akhirnya enggak konsisten ya yang kita lakuin ya untuk kontennya
+24:03
+perkontenan. Tapi di samping itu tuh ya ya gua bikin software house dan kebetulan gua kenal
+24:10
+mereka ini dari komunitas yang gua bangun dan salah satu mereka ini adalah salah satu yang paling jago-jago dari
+24:17
+isi berapa ribu orang di komunitas gua. Bentar lu buat komunitas apa namanya yang Saga Studio. Saga Studio. Berarti kenal di Saga
+24:23
+Studio. Saga Studio. Hebat. Hebat Studio gitu. Jadi ee enggak cuman jago tapi loyal juga. Karena kan kita
+24:29
+ibaratnya ee ketika elanjiin apa-apa, siapa sih yang mau nurut sama
+24:35
+lu? Benar. Iya kan? Iya. Kecuali lu kalau misalnya ini nih gaji segini ya segala macam lu janjiin apa
+24:42
+baru dia mau ngerjain kan gitu. Tapi kalau mereka ini benar-benar yang semuanya itu ya enggak ada cuman mimpi
+24:49
+aja. Gue cuma jual mimpi aja. maksudnya ayo dong kita bikin ini, kita lihat tuh
+24:55
+starter story mungkin lu kalau pernah nonton di YouTube tuh starter story segala macam itu bisa loh orang-orang itu bikin kayak gini. Nah, kita juga
+25:01
+harus bisa bikin dong gitu kan. Nah, pada akhirnya sembari gua ngerjain AI tools yang kita lagi garap ini enggak
+25:07
+tahu kenapa ternyata rezekinya dari arah lain kan ya Mantapu itu yang masuk malah itu. Jadi itu kayak Mantapu itu
+25:13
+masuk itu gua enggak ada kayak ibaratnya approach atau eh marketing
+25:19
+gitu ke Jerom apa segala macam tiba-tiba di reach out ya. dia ngreach out sendiri langsung gitu loh. Jadi mungkin ya rezekinya mereka juga karena
+25:26
+mungkin mereka tulus gitu kan. Iah. Jadi lu berpartner dengan Ray dengan Pram ya? Iya
+25:32
+Pram dan ada beberapa orang kebagiannya gimana? Kalian coding apa? Eh kalau ee kalau Pram ini ibaratnya
+25:38
+yang ngelit anak-anak yang lain. Oh oke. Di ee back end dan front end-nya.
+25:43
+Tel ya. Techlit. Kalau si Rey ini lebih ke project managemennya. Tapi project managernya kita di sini yang bisa
+25:49
+ngoding juga. I bukan yang cuman sekedar lu iya jago manage doang gitu kan ya. Nah jadi
+25:55
+dia engineer kan berarti. Benar dia dia tahu ukurannya nih gitu kan. Terus ee ada lagi dua orang lagi
+26:01
+backend sama front end. Lu berarti head-nya gua yang punya yang punya yang punya tender yang punya PT.
+26:07
+Iya gitu. Terus lu shift everything possible aja berarti ya. Semuanya lu kerjain juga
+26:12
+pada akhirnya gitu. Tapi ya gua harus delegasiin juga dong kan percuma lu jadi leit kalau bisa delegasiin sesuatu kan.
+26:18
+Iya. Tapi lu masih coding? Udah pasti, udah pasti, udah pasti. Iya, tapi beberapa part doang. Tapi lucunya gini, Pit. Banyak orang tuh
+26:25
+karena ngelihat konten gua iya enggak pernah ngajarin tutorial coding, enggak percaya gua bisa ngoding.
+26:31
+Iya. Siapa yang enggak percaya? Ada aja, Bit. Maksudnya tuh mungkin ngiranya tuh gua kayak, "Ah, ini orang
+26:37
+ilmunya biasa-biasa aja mungkin gitu." Orang-orang lain, followers gua lah atau
+26:43
+apa gitu loh. Jadi mungkin ngiranya karena mungkin muka gua enggak meyakinkan, enggak senerd mereka kan. Iya anjing
+26:49
+kok gitu main fisik ya mungkin jadi orang mikirnya mungkin
+26:56
+gua kayak lu gitu Pit paham enggak? Jadi kayak ini mah bisnismen ini atau ini kreator ini marketer gitu-gitu lah.
+27:03
+Cuman ya di belakang layar ya gua ngoding banget orangnya. malah justru memang 80% kehidupan gua ya gua lebih
+27:11
+banyak ngoding bahkan mungkin kalau gua bilang gua lebih daripada mereka untuk urusan ngoding maksudnya lebih bukan
+27:17
+kemampuan ya maksudnya setiap harinya konsistennya. Oke. Terus
+27:22
+ee kenapa kalian bisa berpikir ngebuat platform AI itu? Apa janji yang lu kasih
+27:29
+ke mereka berdua ini? Berarti awalnya platform AI itu I namanya apa tadi? Plus62.Aai.
+Bedah Project Baru: plus62.ai
+27:35
+Tapi jangan dicari dulu. Ini pasti dicari sih karena udah ada cuman masih development
+27:41
+ya enggak apa-apa kan kita masih development kan lu enggak usah terlalu takut gitu. Iya takutnya nanti dinilai gini doang
+27:46
+sampah ada eror gitu gitu takut kita banget. Iya, enggak usah kan cerita aja
+27:52
+prosesnya kan lu enggak harus pakai 62A juga kan dan enggak harus ee maksudnya beli platform itu kan cerita
+27:59
+aja ngapain 62 Aa itu namanya plus 62 dah di
+28:05
+godedy adanya itu gua nyari tahu kok simpel alasannya kok
+28:11
+simpel enggak itu berarti plusnya plus apa tulisan PL kan plus 62 itu kan kode ini kan negara
+28:17
+enggak domainnya itu oh pakai PL plus 62-nya angka
+28:22
+angka 62 kayak situs judi ya. Oh iya ada. Iya lagi
+28:28
+emang iya ya ada angka. Iya ada angka kan plus 62 dong. Kalau di
+28:33
+komentar-komentar kan warga plus 62 kan gitu. Iya kan enggak apa-apa. Tapi kan bisa
+28:39
+jadi e A II AI lu bisa hotel 888 atau masa AI kita bisa masukin Mas
+28:46
+apa yang ya jadi mikir kapa gua ganti nama ya. Enggak, tapi mahal beli domain set of
+28:52
+plus 62 itu berarti target marketnya orang Indonesia doang dong. Enggak, enggak. Kita luar,
+28:57
+kita luar plus luar. Oh, jadi payment method-nya kita pakai yang luar negeri punya. Stripe.
+29:02
+No, kita pakai pedal. Pedle. Oh, oke. Pedle
+29:07
+pedal. Terus e di Indonesia pakai Zendit. Pakai Zendit. Zendit. Ya, intinya kita bikin ee ibaratnya gini,
+29:15
+cita-cita gua tuh sebenarnya cuman pengin ngasih tahu kalau orang Indonesia itu bisa lu bikin produk kayak
+29:21
+orang-orang Silcon Valley. Oke. Contohnya apa? Perplexity kan bagus banget produknya kan. Iya,
+29:27
+bisa loh orang Indonesia gitu loh. Karena kan selama ini mungkin underestimate orang-orang kan ngelihatnya kayak website pemerintah
+29:32
+gitu kan. I. Iya kan? Pada akhirnya kan kayak jelek gitu. Ah, kalau orang Indonesia bikin
+29:37
+pasti gini apa produk lokal pasti gitu gitu lah. Nah, gua pengin buktiin itu. Bisa enggak
+29:43
+sih kita tuh apa mempersembahkan produk ya kayak Gojek lah. Iya. Plus 62 ini secara bisnis model
+29:49
+ngapain, Dit? Persis kayak perplexity manus AI. Ya udah
+29:54
+emergent gitu gitu. Red Ocean banget lah marketnya. Jadi gimana coba jelasin gimana eh apa dia
+30:00
+prompting terus jadi eh website coba Pram jelasin Pram intinya kita mau
+30:05
+bikin all inone solution gitu sih Bang jadi di perform kita tuh bisa ngapain aja gitu
+30:11
+ngapain aja gitu hotel aja bisa bahkan kalau nanti udah ada LM
+30:16
+yang support ya oke oke gimana eh contohnya kayak kita bakal ada banyak mini apps-min apps gitu ya Bang di dalam
+30:22
+aplikasi kita gitu jadi kalau misalkan di perplexity kan kita fokusnya di chat aja He, nah kita tuh nanti bikin mini apps lain
+30:29
+gitu, Bang. Selain chat doang ya. Mini apps-nya itu bisa bikin gambar. Iya. Oke, berarti gua garis bawahin dulu, ya.
+30:35
+Berarti plus 62 ini LLM. No. B. Just a tools. Just an application.
+30:42
+Multimodal AI. Mulimodal pasti bisa. Multimodal. Mulodal. Oh, berarti
+30:47
+tapi bukan multimodel ya. Iya. I ya. Kalau kita pakai modelnya ada basis
+30:53
+model yang kita pilih sendiri. Oke. Modelnya satu. Modelnya satu. Cuman tools AI yang bisa macam-macam. Iya, mungkin lu mau bahas kita bikin
+31:00
+model sendiri. Enggak, enggak. Gua tuh lagi ngebayangin kalau gua buka plus 62 tuh keluarnya apa tuh di homepage
+31:06
+ya? Lu buka CGPT kayak gimana? Tahu kan? Iya. Ya udah persis kayak gitu. Oke.
+31:12
+Cuman lebih lengkap aja. Jadi bisa lu integrasiin tools lu pakai Gmail, pakai Kalender, pakai Google
+31:18
+Drive, Dropbox. Oke, limit lah aplikasi apapun kita bisa semua handle itu. Jadi, lu
+31:24
+dari plus 62 itu tuh bisa langsung ee misalnya lu mau bikin tiket Jira
+31:29
+ya, dari plus 62 tuh bisa langsung asal lu kenaikin ke Jira. Asal lu konein ke Jira. Terus plus ada
+31:35
+mini apps. Mini apps-nya itu tuh modelannya itu kayak Play Store gitu. Oke. Play Store itu kan ada apps banyak tuh.
+31:41
+Nah, kita juga ada nanti untuk video editornya ada sendiri apps-nya untuk bikin ee AI fashion model ada sendiri gitu
+31:49
+gitu untuk bikin skripsi ada sendiri gitu-gituah. Jadi ada specified product for specific
+31:54
+task gitu. Oke. Terus tadi lu cerita bisa bantu kita coding juga. Oh iya,
+32:00
+bisa diinstal di rencana lu bakal bisa diinstal di terminal juga. Rencana gua akan bisa diinstal di plugin VS code.
+32:06
+Plugin VS Code. Oke. Buat AIS coding. Oke. Benar.
+32:12
+Tapi kalau single prom jadi website gitu lu enggak ke arah situ ya? Iya enggak ke arah situ ya? Iya. Terus selain itu unik selling
+32:19
+point-nya ya harganya ya murah rupiah yain. Rupiah pasti harga di luar negeri
+32:25
+sama Indonesia kita bedain harganya. Yang di Indonesia pasti lebih murah. Oke, sekarang lu host di mana dan pakai
+32:32
+processing apa processing power-nya cukup enggak? Karena ini MVP kita pakainya super bas
+32:39
+Supa Bas. Terus ya hostingnya versel lah biasa. Enggak, enggak lu nge-hosting modelnya
+32:44
+nih di di mana? Oh no. Kita enggak bikin sendiri, kita pakai ya benar orang bilang wpping API
+32:50
+itu. Oke. Jadi bukan model open source lu e running di server lu misalkan pakai ada
+32:56
+server yang pakai enggak enggak Nvidia something itu yang punya lintas arta kan ada tuh di Banten.
+33:01
+Justru malah kalau untuk awal lu misalnya mungkin buat orang-orang nih yang mau bikin tool C sendiri kalau lu
+33:06
+kayak gitu lu justru lebih boros. Iya. Kecuali lu yakin nih pengguna lu bakal banyak di awal.
+33:11
+Iya. Misalnya gua gua yakin nih penggunanya ini di bulan pertama ini akan ada 1 juta pengguna yang akan
+33:17
+mengakses bersamaan itu lu bisa nge-pres budget dengan lu sewa server sendiri ya. Tapi kalau misalnya lu enggak tahu
+33:24
+gambling ya better lu pakai API yang udah ada yang udah tersedia aja kayak Huging Face atau mungkin dari versel AI
+33:30
+gitu-gitu. Iya. Jadi lu ngambil ee API dari dari
+33:35
+platform AI iya dari satu dari suatu model lah. Dari suatu model ya yang enggak usah kita sebut ya. Enggak usah kita sebut.
+33:41
+Bukan model Gatot Kaca kan? Bukan. Itu mah search engine dong. Siapa tahu buat Gatot Kaca model.
+33:47
+Nah, menurut lu nih Pit, jadi orang-orang tuh banyak yang komentar tentang apaan tuh bikin apa katanya
+Debat: Bikin Model Sendiri vs Wrapper API
+33:54
+bikin AI sendiri. I padahal itu cuman rapping dari API. Rapping. Iya.
+33:59
+What do you think? Eh, menurut gua idea itu murah, eksekusi
+34:05
+yang mahal. Lu mau wraping mau apa, kalau eksekusi lu bagus ya tetap akan jual. Jadi ginilah
+34:11
+istilahnya nih. Istilahnya aja ya gua ngomong brutal nih. Iya. Buat apa lu buat API yang diun 10 ms
+34:21
+kalau usernya nol? Iya benar ya. Iya lu buat nih e lu buat model sendiri lu
+34:27
+habisin miliaran. Heeh. Lu enggak bisa jual produk itu? Ngapain? Useless. Heeh.
+34:32
+Ngapain? Oke. Ngapain? Misalkan luat ee tadi plus 62, he
+34:38
+lu ambil model ya, lu ulik tuh model Heeh. Lu masuk tuh, lu training sampai mampus
+34:45
+tuh berhari-hari lu ngabisin resource gede sewa server yang punya Nvidia ee yang buat e ngeproses AI itu kan ya
+34:53
+which enggak murah per bulannya. Benar benar enggak ada yang beli buat apa? Contohnya kayak yang Indonesia buat
+34:59
+sahabat ya. Iya. Kalah sama Mas-mas di daerah yang jualan WordPress buat UMKM. Oh iya. Lagi sekali pecah R5 juta, R1 juta
+35:08
+dia jalan ke ini ke kantor-kantor di daerah sebulan dapat 100
+35:13
+tapi lu hina-hina dia pakai WordPress yang dihina balik yang dia lah ngapain lu
+35:19
+gua lagi gua terus jadi gini yang penting menurut gua produk lu launch dan punya customer
+35:24
+basis dulu sih benarbenar kalau gua dari segi pebisnis ya iya dan kalau dari segi engineering yang
+35:30
+penting itu model atau API lu fit ya, lu proses sendiri di
+35:36
+kalau dari sisi engineering tuh enggak ada di dunia ini enggak wpping. Oke. Even lu beli iPhone dengan
+35:43
+produknya Apple itu, itu kan juga wpping. Rapping itu dalam artian ya dia
+35:49
+dia paling cuman bikin satu kan e chipnya doang kan. Sisanya itu tuh kan dia wpping dari produk-produk lain juga
+35:55
+dan dia ngebuat blueprint-nya jadi satu jadi satu frame ya. Sama sebenarnya software engineering
+36:00
+ya. Ya begitu kan ya. Cuman kan kadang-kadang ada programmer-programmer Ortodox tuh ya yang ortodox ortodoks bahasa baru ni
+36:06
+yang kayak udah hardcore banget ya. Udah hardcore banget yang mungkin yang nghujat-hujat lu itu di satu komunitas
+36:12
+tersebut. Banyak tuh mereka tuh menurut gua ortodoks ya enggak nerim lah influencer
+36:17
+bikin kelas. Nah sekarang ada orang bikin AI ya dibilang ah paling rapping doang segala macam.
+36:22
+Iya enggak terima ya bro. Yang gua keselin tuh gini. Oke wpping lu
+36:29
+enggak bisa cuman API narik vetch doang that's it. Terus lu persembahkan ke orang jual begitu aja enggak bisa.
+36:34
+Enggak kan di tengah-tengah rapping, di tengah-tengah nge-fetch itu ada proses lain yang harus lu kerjain sampai AI itu
+36:41
+tuh benar-benar sempurna. Coba lu jelasin, Dit, prosesnya biar mereka melek, Dit. Yang kita obrolin di
+36:47
+warung nasi goreng itu loh. Iya, benar. Jadi ada e ada chain namanya. Ada ada satu rangkaian yang terjadi sampai dia
+36:54
+tuh bisa ngejawab apa yang lu pengin. Oke, gitu ya. Kalau lu cuman ibaratnya nih ada nih model dari cloud,
+37:01
+oke, lu bayarlah, lu top up 5 dolar, lu bisa pakai itu buat difetching. Iya, lu ambil tuh API-nya.
+37:07
+Ambil API-nya. Jadi itu AI lu. Heeh. Tapi AI lu itu masih bodoh
+37:12
+banget. Sama kayak cloud yang model yang standarnya. Iya, dia bisa jawab tapi jawabnya ngasal
+37:17
+banget. Sedangkan ke sini ke sini itu perbandingan produk itu makin gila-gila. Mereka itu tuh udah berlomba bukan
+37:24
+masalah tentang model apa yang bagus, tapi produk mana yang paling bisa ngasih jawaban yang paling make sense.
+37:30
+Yes. Contohnya kayak kenapa orang pakai Perplexity? Kenapa enggak pakai CGPT aja langsung? Kan yang originnya dari sono.
+37:37
+Iya. Perplexity juga pakai CGPT kok gitu loh. Ya, karena Perplexity ada proses lagi
+37:43
+sebelum dia ngasih jawaban dari open AI. IK API open AI itu dimodif lagi sama dia,
+37:49
+define tuning dengan banyak konteks. Entah itu nanti dia ngambil dari cuaca,
+37:54
+entah itu dia ngambil dari berita, entah itu dia ngambil dari search engine kayak Google, iya
+37:59
+macam-macamlah gitu. Itu namanya chain-nya itu ya. Itu chain itu rangkaian-rangkaian tersebut. Nah, selain dari ee ngambil
+38:06
+konteks, ada juga yang namanya itu token meledak. Token meledak tuh apa? Jadi model-model
+38:11
+AI itu ada yang ee pokoknya dia tuh punya limit untuk bisa dikasih teks itu
+38:18
+berapa banyak. Iya ya kan ada yang cuman 128K, ada yang cuman 256K, macam-macam lah.
+38:25
+Nah, kalau lu kasih konteks sangat banyak kayak I tersebut, enggak cukup token, dia enggak bisa jawab, dia enggak bisa
+38:30
+proses karena ini udah terlalu banyak. Nah, di situ ada lagi tuh proses engineering lu untuk mikirin gimana nih
+38:37
+caranya? Apakah kita pakai looping? Iya. Apakah kita mau potong percang? Terus cari byor.
+38:43
+Potong percang tuh. Iya. Terus oke. Terus ee ee search by vector. I diubah diubah data teks tersebut jadi
+38:49
+vektor. Atau lu mau ee plek ketiplek konteks besar tersebut lu pakaiin ke Gemini. Ai
+38:57
+gemini itu by the way yang paling gede dia nerima konteks itu R juta sanggup. Banyak cara. Nah, itulah yang
+39:02
+lu pikirin itu tuh proses bisnis belum hasilnya. Belum hasil yang paling benar yang mana nih? Heeh.
+39:09
+Belum di tengah-tengah itu tuh ada proses lagi. Lu mau jawabnya itu tuh langsung jawab ee jadi langsung dalam
+39:16
+bentuk teks yang panjang blek gitu dikasih gitu atau mau streaming itu ada lagi caranya. Gua percaya nih yang
+39:21
+komentar-komentar gitu enggak tahu cara buat streaming aja tuh enggak tahu ya. Karena mereka cuma bisa ngetik di Facebook.
+39:26
+Itu dia. Itu dia strike dari Bang David.
+39:33
+Iya, gua gua udah ngobrolin ini sebenarnya lama prosesnya. Contoh nih, Bro. Sesimpel gua punya produk
+39:40
+ya. Gua note dulu ya. Produk gua selalu menghasilkan uang ya anjing.
+39:46
+Jadi ee bukan ee ada lagi gua ngerjain. Jadi kalau orang
+39:52
+foto lari mereka kan pengin dapat fotonya secepat mungkin. Jadi gua buat AI yang bisa
+39:58
+deteksi OCR. Jadi ada BB ini dideteksi. Jadi mereka tinggal ketik misalkan gua 5128. Heeh.
+40:04
+He. Oh, ini foto gua langsung ke ke indeks ee sama itu dan itu sudah jalan di berbagai macam ee running dengan partner
+40:12
+gua dan ya gua dapat duit lah dari situ. He. Yang penting apa kan yang penting apa? Menghasilkan kan.
+40:17
+Tapi dari situ walaupun gua cuman wrapping he gua bandingin satu-satu, Bro. Open AI eh
+40:24
+vision tuh kayak apa OCR-nya? Dia bisa enggak deteksi nih kalau ini O bukan
+40:29
+nol. He kalau dia jauh seakurat, kalau dia kena teh. Gua tes satu-satu, Bro.
+40:36
+Ada lagi coen gua pakai ee yang model free. Ken salah numbernya.
+40:42
+Ada gua pakai lama yang maverick dan gua kerjain ini ada ada partner lagi dan gua memang lagi mau pakai model yang
+40:48
+dihost di dalam negeri nih. Sekarang gua lagi research banyak banget. Terus ada lagi misalkan Quen versinya
+40:53
+ini versi yang atas ini. Gua coba kemarin lari dari GPT 41 Mini. gua
+40:58
+coba-coba GBT5 malah hancur semua gitu. Dan gimana cara lu misalkan itu kan jadi prom dari prom
+41:05
+ee jadi OCR kan lu yang paling efektif apa dan di model yang mana itu susah
+41:12
+anjir. Iya betul karena itu lu harus enhancement lagi kan lu harus modif lagi itu enggak bisa lu
+41:18
+pakai plekiplek punya dia doang. Iya. Dan cash-nya banyak banget ada orang lari banyak numbernya.
+41:24
+Ngedetek nomornya ngacau semua. Gua dimarin customer lah nomor saya bukan ini, ini kok ini saya gitu kan
+41:31
+ya. Jadi kan maksud ngebuat produk tuh enggak sesimple wpping lu harus adjust sama bisnis cas-nya.
+41:38
+Karena mereka ngetik gitu karena mereka enggak pernah ngadapin produknya dibeli orang bro. Iya sama customer
+41:44
+wah itu serem kalau udah dibeli orang. Sesimpel gue web export jual template website gua enggak cuman WordPress
+41:49
+jualnya. Gua juga ada yang template misalkan gua mau buat apa pakai NextGS gua bisa juga lu mau buat apa?
+41:55
+E-commerce. e-commerce ada dulu kalau mau pakai e-commerce lu bayar segini lu mau gua buatin dari nol
+42:00
+sampai mobile apps ada klien gue yang harganya beda gitu. Heeh. Karena udah sehari-hari begitu ya gua
+42:06
+gua gua understand banget mana yang harus dipakai dan mana yang harus divoid gitu. Tapi kan kalau lu ngetik itu Bang David
+42:11
+mah begini begini ya udah memang begitu ee mentalnya kayak yang Agung Hafsa
+42:16
+jualan kelas lah gitu sama benar ya. Apa salahnya diolan kelas? Bahkan dia bisa nge ng bahkan gua bangal sama
+42:23
+dia dan gua harusnya malu sebagai anak IT. Dia contonent kreator bisa ng repackage coding bisa menarik loh. Gua aja enggak
+42:30
+bisa. Betul betul aku enggak usah jualan kelas mereka komentarin. Iya orang yang jualan kelas nipu enggak
+42:36
+dikomentarin sama mereka. Ada tuh ada yang di Jogja itu mau mat and gre
+Bahas Kasus "Kerja di Jogja Gaji New York"
+42:42
+ada. Ada ada. Lu enggak tahu ya? Enggak tahu sih, gua udah enggak banyak ngikutin soalnya karena gua punya real life.
+42:48
+Pokoknya inisialnya e lah gitu. Oh, heeh. Jadi lagi ram lah ee nyulik
+42:53
+duit-duit orang lah. Kenapa tuh diculiknya? Gimana coba tuh lu korbannya? Eh, bukan
+42:58
+ya? Bukan apaan yang itu? Iya yang gaji New York. Iya. Ya. Ee tinggal di Jogja gaji New
+43:05
+York ya. Heeh. Itu itu gimana, Pram? Kenapa maksudnya kasusnya? Kenapa kasusnya?
+43:10
+Kasusnya gini seingat seingat gua ya nih correct me if I'm wrong. He. Jadi waktu sebelum COVID itu ada orang
+43:19
+Jogja bikin bootcamp. Heeh. Oke. Dengan tagline ee apa tinggal di Jogja
+43:24
+gaji New York ya atau apa. Iya. Semacam itulah. Gaji New York. I ternyata banyak peminatnya sampai ada yang nge-invest tuh, Bang.
+43:31
+Dan banyak yang nge-invest kayak R juta, R00 juta. Iya. Iya. man.
+43:36
+Banyak yang nge-invest. Heeh. Nah. Oh, bukan beli kelas invest ya? Ada masalahnya ada dua, yang beli kelas
+43:43
+dan yang nginvest. Oke. Oke. Terus, nah sampai akhirnya yang nginvest banyak
+43:48
+ini enggak jalan kelasnya, orang udah pada beli ya. Sampai ada kasus katanya kalau mau masuk
+43:53
+kelasnya lu harus referal dulu. Narik dua orang untuk masuk kelas dia baru nanti lu di dimasukin ke kelasnya. Affiliate dong. MLM dong.
+44:01
+Iya. Sampai gitu. Terus akhirnya ee investornya juga pada marah uangnya
+44:06
+ke mana kok malah habisnya ke gajinya dia gitu. Benar. dia tuh ngeklaim ya gua kan kerja remote dari luar gitu. Gaji
+44:13
+gua dulu pas kerja remote tuh sekian puluh juta gitu ya. Lu harus bayar gua segini lah. Jadi jadi justifikasi padahal dia bisnis
+44:19
+owner. Iya. Enggak pertanyaan gua, orang-orang itu kenapa mau invest? Enggak enggak tahu ya. Mungkin ee ini
+44:25
+yang gua tahu Mas dulu gua masuk komunitasnya dan cukup ramai. Iya. I dia itu cukup sering apa ya jadi pembicara mungkin ya.
+44:32
+Oh iya. Heeh. Sering sharing lah. Flexing enggak? Flexing ee enggak. Oh flexing enggak. Orang percaya
+44:37
+biasanya kan orang percaya sama fleksi. Ah. Terus
+44:43
+akhirnya mungkin karena orang sudah ramai dan kenal dia di komunitas ya orang teras aja kali Mas.
+44:48
+Oke. Akhirnya kelasnya enggak jalan. Akhirnya kelasnya enggak jalan, enggak ada kejelasan. Dulu tuh kalau enggak
+44:53
+salah kelasnya katanya akan di buat offline di Jogja. Dia punya tempat gitu ya. Baru kemarin itu kan.
+44:59
+Iya. Enggak enggak dari sebelumnya sudah ada. I terus terus ternyata kan COVID enggak jadi I dibuatnya online. Tapi sampai sampai
+45:06
+hari ini itu kalau enggak salah enggak ada materi apa-apa dan enggak tahu kelasnya siapa yang sudah masuk. Dan itu satu pelajaran ya tapi ternyata
+45:13
+ee apa ya lingkaran setan kayak gitu tuh enggak berhenti sampai di situ.
+45:18
+Heeh. Sekarang malah bermunculan nih orang-orang baru dengan tagline yang sama. Heeh. Iya
+45:24
+iya. Mengiming-ngimingin orang kerja di luar negeri. Mungkin di lu enggak muncul iklannya ya. Enggak.
+45:29
+Di gua nongol terus iklannya. Anjir. Intinya Amerika lah. American dream yang
+45:34
+dijual lah gitu loh. Iya. Gua pernah kerja di US loh. Perusahaan US loh. Enggak pernah gua ngomong gitu. Nah, kalau kalau lu mau bisa kaya itu
+45:43
+enggak gua malah kemarin ee ini nge-videoin ngebuat reals yang viral ya lumayan buat
+45:50
+anak-anak IT ya udah kita bantu UMKM aja daripada kita junior programmer kan sudah ganti AI kan.
+45:56
+Oh enggak. Ini ini sampai pamerin gaji gitu. Iya. Dan memang banyak yang komen kayaknya ke brandw ya ngapain mending
+46:02
+kita kerja di Jepang mending k JS terus gua balasnya gampang bro toast the grass enggak semua programmer
+46:09
+Indonesia bisa kerja di luar negeri. Betul setuju. Kemampuan orang tuh beda-beda. Setuju. Setuju. Iya kan? Benar. Dan regulasinya kan beda-beda ya
+46:15
+Bang ya. Kalau misal kita kayak mau kerja ke Jepang ya standarnya juga beda. Enggak semudah kayak ya udah kita tinggal pergi ke
+46:21
+Jepang kerja. Enggak semudah itu. Gua punya teman yang kerja di Jepang ya memang jago. He excellent. Tapi kan enggak semua orang
+46:27
+bisa reach level of excellence itu loh. Betul. Iya. Apalagi kalau lu cuman lulusan bootcamp berapa bulan.
+46:33
+Iya. Dan lu iming-imingin gaji puluhan juta. No no no. Ratusan. Ratusan juta. Ratusan. Makanya gua di
+46:40
+situ tuh kesal gitu konten gue yang terakhir kalau lu lihat dibilang gaji R00 juta. Enggak ada. Programmer sono
+Realita Gaji Programmer & Kerja Remote
+46:46
+aja tuh belum tentu R00 juta per bulan gituinya. Mes lu kerja di mana? Chat GPT lu di sana.
+46:52
+Enggak juga. Enggak juga segitu. Iah. Iya. maksudnya kayak aduh ada ada memang
+46:58
+gaji gua kenal orang yang memang gajinya 3 digit R miliaran lah sebulan ada memang ada he
+47:03
+cuman kan zaman dulu pas start up boom sekarang kan saingannya udah agak banyak Heeh
+47:08
+setahu gua kalau yang kayak gitu tuh country manager atau Iya memang udah rich kayak gitu kan jadi kan
+47:14
+Iya tapi kalau cuman staff asan engineer biasa sih menurut gua ya rata-rata di R0 juta sampai R10 juta kalau dirupiahin
+47:20
+betul dan gua pun pas kerja di US walaupun remot ya dari Indonesia jabatan
+47:26
+gua associate technical director ya gaji gua enggak 3 digit kecil enggak enggak
+47:31
+nyampai ee berapa gitu dan enggak semua orang bisa resort itu. gua
+47:36
+bisa, gua bisa masuk ke jabatan itu ya karena gua dulu punya startup. H diinvest EV walaupun startup gua kan ee
+47:43
+collaps ya karena COVID jadi gua punya gym 20 dulu punya restoran 3 satu eh tiga catering makanan
+47:50
+sehat juga namanya Fitco lah lu bisa search sekarang jadi 20 fit masih jalan juga dan itu sekarang ngurusin event
+47:56
+lari yang gua buatin foto sistemnya tadi itu. Ya itu karena itu itu dia ngelihat
+48:01
+portofolio dia lah. Kalau lu lulusan kemarin sore mana bisa bule itu ngerima lu siapa anjir.
+48:07
+Iya makanya iya masmas random aja. Iya masmas random kan yang di depan laptop.
+48:12
+Iya iya ya. Jangan jual mimpi yang terlalu itu kan yang jadi masalah kelas sekarang
+48:18
+kan. Lu jual mimpi yang terlalu tinggi. Benar. Dan lu menyamakan standarnya sama orang
+48:23
+itu jahat sih Bang. Iya benar. Jahat sih maksudnya ini market lagi downfall gini dia ngasih harapan.
+48:30
+Jahat sih orang-orang kayak gitu. Tapi orang sus orang yang kaya dari jualan kelas pasti kayanya dari kayak
+48:36
+gitu semua. Market yang lagi downf. Heeh. I karena orang lagi susah dan mereka ber
+48:41
+kalau secara hukum enggak salah. Iya karena enggak akan salah karena dia kan misalkan jualan edukasi dan lain
+48:47
+cuman etika aja maksudnya. Iya. Etika dan moral berarti ya. Betul et moral aja sih. Betul. Nih menarik nih kita bahas tentang
+48:54
+kolaborasi. Oke. Kolaborasi karena ini masalah yang mungkin eh
+Pentingnya Kolaborasi & Mental "Builder"
+49:01
+nowadays lagi sering banget gua hadapin. Oke. Oke. Tentang kan ee sekarang Indonesia
+49:08
+ee gua enggak tahu ya kalau gua ngelihatnya memang kan pasar lagi saturated banget. Lu nyari kerja susah
+49:15
+banget. Lu enggak ngerasain karena lu bisnisman. Iya. anak-anak ini yang ee bekerja yang
+49:21
+harus ee menetap di satu perusahaan susah banget. Gua garis barin dulu ya, Dit ya. Ee Rei
+49:27
+sama Pram berarti kondisinya pas ikut Adit enggak ada kerjaan atau udah kerja?
+49:33
+Ada. Tapi waktu itu lagi isu-isu layak di aku ya. Oh, di Pram di
+49:38
+udah kena lay off, Bang? Udah kena lay off. Gu sudah kenal dan dua lagi itu kita cuman satu yang kerja itu juga pun karena punya istri
+49:46
+berkihirnya harus terpaksa bekerja dan satu lagi ini karena belum punya istri ya udahlah dia nerimalah keadaan market.
+49:52
+Jadi ini kondisi anak IT sekarang ya. Iya. Oke lanjut. Semuanya pasti ngerasain ini dan gua
+49:58
+yakin 100% orang yang komen tuh setuju. Ketika kita ke kiri kanan atas bawah sudah enggak ada jalan,
+50:04
+satu-satunya harapan yang lu bisa lakuin itu adalah kolaborasi. Oke, sepertinya pasar itu lagi nuntut
+50:11
+kita untuk bikin sesuatu, bukan El cuma nerima ada lowongan,
+50:17
+enggak. Tapi masalahnya mental kita sedari dulu masih dilatihnya seperti itu.
+50:22
+Iya. Nah, sedangkan kalau kita ngelihat kayak di Amerika atau misalnya di Australia mungkin yang kita pernah kerja
+50:28
+bareng sama orang-orang itu ya di sana itu tuh mentalnya itu tuh dari kecil itu adalah untuk menjadi sukses
+50:34
+itu bukan jadi PNS atau jadi tentara, jadi polisi, bukan di sana. itu tuh sesuatu yang buat mereka itu tuh udah
+50:40
+udah ee last calling doang kayak udahlah ini kayak gua enggak bisa ngapa-ngapain ya udahlah gua masuk tentara deh
+50:45
+di Amerika tuh begitu loh kalau anak IT bukan kerja di suatu startup dan jadi senior engineer atau apa kan parameter suksesnya kan bukan
+50:52
+gitu iya dia pengin kayak Zuckerberg i dia pengin kayak Steve Jobs
+50:57
+produk builder kan product builder walaupun pada akhirnya dia cuman jual produk sampah di App Store atau Play Store tapi habis itu dia
+51:03
+bikin lagi. Dia bikin lagi. Dan dia lebih suka seperti itu daripada dia ngelamar ke perusahaan-perusahaan. Iya. di kita kan mentalnya enggak seperti
+51:08
+itu. Masih yang kayak mentalnya adalah ngelamar apa-apa cari. Pokoknya setiap
+51:14
+hari itu energinya habis untuk lamaran doang. Iya. Nah, ketika kolaborasi diajakin
+51:20
+pada mager-mageran. Gua enggak ngerti. Gua enggak tahu lu pernah ngalamin apa enggak. Tapi ketika lu nge-prospek
+51:26
+seseorang untuk bisa membuat sesuatu bareng sama El tapi enggak ada duitnya dulu, itu susah banget. Kalau gua.
+51:33
+Iya. Nah, kalau kalau kalau lu menurut lu gimana ngelihat fenomena kayak gitu yang pada akhirnya kolaborasi tuh kurang
+51:39
+banget di kita pada akhirnya kita enggak jadi apa-apa tuh kebanyakan orang-orangnya milenial kayak kita masih mau tapi Genji gua rasa udah enggak mau.
+51:46
+Oh iya kah? Iya ada satu kasus Hm. Gua mau nge-hire orang. Heeh.
+51:51
+Orang itu aja habis dipecat dari perusahaannya di layusnya ya. Iya.
+51:57
+Gua over gaji yang sama. He masih enggak mau. Enggak mau. Bang. Gaji gua kan kemarin di sana segitu lah. Lu
+52:03
+kan kondisinya dipecat. Gua gaji di bawah lu juga boleh kan. Oke.
+52:08
+Enggak maulah, Bang. Gua mau cari kerja yang lain aja. Ya segitu mentalnya. Oke. Udah bukan mental builder lagi. Udah
+52:14
+bukan mental orang yang bisa ngedobrak sesuatu. Makanya gua selalu edukasi. Nah, itu edukasi yang latest gue yang mau gua
+52:21
+suarain nih. Heeh. Ya, lu tap intin-tap inin lah kepada bisnis owner apa yang lu bisa bantu. Anjir,
+52:27
+lu turunin ego lu kayak gitu ya. Iyalah. Oke. Oke. Terus salah satu mungkin bisnis owner el
+52:33
+turunin ego. Kalau memang belum ada duitnya, ya udah apa yang bisa gua bantu di free time gua ini
+52:39
+selain gua buat CV kan sama submit lamaran kan apa yang bisa gua bantu yang bisa gua contribute dan nanti return apa
+52:45
+yang bakal gua dapat kan bisa gitu. Heeh. Lu tap in misalkan, "Nah, ini susahnya anak IT enggak punya
+52:52
+relasi, Bro." Iya, benar, Bang. Iya, iya. Oke. Terus hidupnya nih kotak nih.
+52:57
+Hm. 4* 4 sumpah itu gua enggak jujur lu harus
+53:03
+banyak nongkrong lu harus banyak ketemu orang lu harus banyak bergaul sama orang yang punya vibrant yang beda sama l
+53:09
+ya itu yang gua suruh lu coba tap in ada pemilik bisnis enggak ada bisnis owner enggak yang sedang kesulitan kira-kira nah
+53:15
+pak kesudnya apa gini oh terus lu coba sove pakai produk yang lu buat lu bisa buat pakai apapun
+53:21
+he terus lu picing ke dia harganya berapa lu picing ke dia return-nya kelu apa atau lu digaji sama dia deh awal-awal
+53:28
+terus nanti lu minta kenaikan gaji, lu jadiin dia partner. Oke. Yang itu yang selama ini gua lakukan,
+53:34
+Bos. Jadi semasa karir lu, semasa karir gua. Jadi
+53:39
+misalkan nih, gua dulu coding di BINUS mentok cuma jadi apa sih? Senior programmer doang kan.
+53:46
+Heeh. Terus gua ketemu Rayond, gua buat produk. He. Rayond janjiin apa ke gua? Enggak ada
+53:52
+PIT, kita buat startup yuk. Ayo. Gitu kan. Oh, lu enggak enggak dibayar. Enggaklah. Kita dibayar apa,
+53:57
+tapi di endingnya lu menikmati hasilnya? Iyalah. Iya kan? Iya dong. Terus startup gua diakuisisi sama Fitco
+54:05
+yang dulu. He. Masuk gua dari bocah jadi si level gua anjir. Jadi langsung CTO. Nah,
+54:11
+ketika itu kolaps, gua pun masih tetap dekat sama teman-teman gue itu. E, bisnis mereka yang gua bisa bantu apa?
+54:18
+Akhirnya gua bisa bantu, gua bisa kirim invoice ke dia. Heeh. Ya, kayak gitulah harusnya kan ya. Lu kalau misalkan susah
+54:25
+cari kerja, siapa teman lu yang bisnis owner? Lu ngobrol atau ada enggak mantan bos lu? Mungkin mungkin dulu mantan
+54:30
+manajer dulu yang punya bisnis sampingan kayaknya, "Pak, ada project yang bisa gua kerjain enggak atau apa?" Tapi kan lu tuh harus humble dulu. Yang susah tuh
+54:37
+di apa gini juga enggak sih? Gua ngelihat kebanyakan mungkin teman-teman kita di orang-orang Indonesia ini SDM di
+54:43
+Indonesia ini kita tuh banyak dapat ilmu itu tentang leadership. Iya. Tapi kita enggak pernah diajarin ilmu
+54:49
+followership. Iya. Bagaimana caranya mengikuti orang dengan benar?
+54:54
+Iya. Ya, kebanyakan leadership pada akhirnya kan semua orang pengin jadi leader. Iya. Tapi ketika diangkat atau ditunjuk
+55:01
+mereka ogah-ogahan. Tapi pada saat yang ditunjuk siapa berhasil dia iri dan ya mental crap kan.
+55:07
+Iya. Kayak dia tarik lagi kep. Padahal leader itu harus berani semuanya ya. Iya. Menurut mungkin kebanyakan menurut
+55:12
+menurut orang-orang ya enakan gue jadi leadernya lah daripada gue jadi followernya. Misalnya ada satu teman lu
+55:19
+punya ide nih tengah malam sampai subuh nih ngobrolin ide. Iya. Oh ya udah nanti gua bantuah. Nanti gua
+55:25
+bantu. Kadang-kadang ngobrolan-ngobrolan ide-ide itu tentang mau bikin ee apa ya
+55:31
+resto gerobakan ee apa ya jual makanan, jual baju, apapun segala macam. Apapun
+55:36
+itu lu mau bikin startup apapun itu obrolan sampai subuh sampai pagi besoknya nguap. Heeh.
+55:42
+Rata-rata pasti begitu kan. Iya. Heeh. Enggak ada action sama sekali. ketika enggak ada sama sekali, gua tuh punya
+55:48
+hipotesa, mereka itu berpikir bahwasanya ngapain gua bantuin dia punya ide. Iya,
+55:53
+mending ide gua yang gua jalanin gitu loh. Dan di situlah yang pada akhirnya kolaborasi itu tuh kurang
+55:58
+di orang kita. Sedangkan kalau gua lihat nih dibule-bule Heeh. atau mungkin enggak usah bule lah kayak
+56:04
+orang Singapura atau orang Chinese gitu-gitu ya. mereka tuh apa ya ketika
+56:10
+si A ini ee punya ide apa yang lain ini tuh ccelnya itu tuh tahu
+56:15
+bagaimana memposisikan diri untuk bisa membuat ini tuh apa ya jadi fulfill
+56:21
+gitu. Iya. He di kita tuh enggak ada anjir. Benar. Benar. Jadi gua ada contoh real
+56:26
+cas ya. Oke. Obrolan sampah yang jadi duit ya. Heeh. Teman gua ada bekas engineer Tokopedia
+56:32
+sekarang dia kerja di B dan Dance kan ud di akuisisi ya. Dia lanjut ya. Heeh. di masa-masa sulit yang membuat
+56:37
+dia tenang tuh apa sih? Apa? Aplikasi live score yang dia buat kocak-kocakan.
+56:43
+Ternyata download-nya banyak dan dia hidup dari AdSense, Bro. Puluhan juta itu. Oke. Jadi di aplikasi Live Score itu yang
+56:50
+nge-fit bola hasilnya siapa? Banyak yang download ternyata dia pasangin ads. As simple as that. Lu dapat duit
+56:56
+ads di aplikasi Google Ads. Itu jadi yang ngebuat dia dapat side income dari situ.
+57:02
+Dia berapa orang satu tim itu? Berdua doang. Oh, berdua doang. Jadi dari obrolan sampah, tongkrongan,
+57:07
+kita buat aplikasi ini yuk. Enggak ada yuk. Oh iya enggak ada jjir. Kita buat jirat ada yang download ternyata banyak dan
+57:14
+rame ternyata. He tapi kalau kalau yang kasusnya diniatin ada enggak? Ya itu kan diniatin bro kan iseng itu.
+57:20
+Tapi kan dari iseng itu kan dijadiin sampai dipublish tuh niat loh bro. Oke, dipublish di App Store, Play Store dan
+57:25
+dibuatin kayak bannernya nih live score itu bisa ngapain. Oke, jadi maksudnya kayak side job aja dari
+57:32
+dia kerja di kantor terus dia juga kerjain itu di malamnya sampai dipublish. Tapi kan itu kan dari ide
+57:38
+sampai dia publish App Store itu kan bukan sesuatu yang gampang kan. Oke. Benar. Walaupun jadi obrolan kocak kan kita
+57:44
+buat kita buat buat dijadiin. Nah, akhirnya kan akhirnya kan bisa jadi ee uang kan. Benar.
+57:49
+Nah, itu kadang-kadang opportunity yang kemis. Nah, ini yang gua pelajarin dari orang-orang China.
+57:55
+Oke. Anjir orang China kalau diajak meeting ditelepon datang tanya kenapa begitu. Karena kalau gua lewatin ini mungkin
+58:01
+ini ini China Cindo apa ee kalau China China China daratan daratan
+58:07
+RRC. Jadi kalau gua miss ini katanya siapa tahu kesempatannya lewat
+58:12
+gitu dan diambil orang katanya begitu ya. Gua setuju sama lu ee mental builder ini enggak enggak enggak ada di kita.
+58:20
+Bro, padahal untuk jadi suatu misalkan lu kerja di US ya, He. Lu mau diterima kerja di US jadi senior,
+58:26
+engineer senior, lu harus proven lu builder di sini. Benar. As simple as that. Teman gua yang udah ngebuat live score terus ngasilin duit
+58:33
+ee puluhan juta di-download banyak. Dia kalau pching interview ke luar negeri gampang.
+58:38
+Oh Pak, iya saya memang cuma software engineer di suatu perusahaan ini, tapi saya buat aplikasi ini, Pak. Iya, betul. Ngasilin ini nih traction saya nih. Wah,
+58:45
+keterima langsung. Gampang lu. Ada pencapaian gua juga gampang lah, Pak. Saya buat aplikasi ini, Pak, di-download
+58:51
+segini. Ini grow saya, ini kitchen saya, ini gym saya. Gim saya tinggal tap ee tinggal tap aplikasi masuk ini. Dia
+58:56
+terima gua. Saingan gua dulu 30 orang. He. Yang lebih senior dan tua dari gua
+59:02
+banyak. Tapi si bule itu milih gua buat masuk. Jadi, karena ada pencapaian, Bro.
+59:07
+Benar. Benar. Jadi, sebenarnya kalau SDM kita itu take and action-nya kurang banget, ya. Iya.
+59:13
+I kebanyakan ide, mikir. Gua bilang tadi ide kan murah. Iya. Eksekusinya yang mahal. Eksekusinya
+59:19
+yang mahal. Eksekusi berdarah-darah, Bro. Iya, betul. Susah. Maaf, ya. Orang yang jual kelas tadi
+59:24
+idenya bagus. Bagus. Dari Jogja gaji New York. He. Bagus, hope-nya bagus. Eksekusinya
+59:31
+benar. Padahal duitnya udah masuk loh. Itu aja duitnya udah masuk loh. Karena belum maaf ya, gua enggak negatif.
+59:38
+Mungkin mungkin dia dia mau eksekusi tapi dia enggak sanggup. Benar. Ada duitnya nih. Eksekusinya gimana? Aduh, tapi gua masih
+59:44
+kerja. Aduh, masih duit masih terus enggak berani melepaskan semuanya buat mentalnya belum siap. I ya, ya, ya. Itu udah ada duitnya
+59:51
+padahal ya. Iya. Justru malah yang kebanyakan gua temin di lapangan itu karena enggak ada duitnya.
+59:57
+Akhirnya akhirnya enggak mau gitu loh kayak gitu. Padahal kan itu bisa jadi playground juga. Benar
+1:00:03
+gitu. Dan kalau lu bilang gua zaman dulu gua banyak banget apps. Aneh-aneh juga ada gua sumpah aneh-aneh ada gagal
+1:00:11
+banyak. Kira-akhirnya itu yang ngebawa lu seperti sekarang gitu ya. Iya, karena gua udah ngerti mental builder, gua pernah ngerilis e-commerce juga sering
+1:00:17
+gua dulu affiliate-affiliate gitu gagal. Ya udahlah biarin mau gimana ya cost aja
+1:00:24
+cost-nya daripada gua spending ini gua spending ke aplikasi atau apa ya udah gagal gitu sih. Yang jelas mental
+1:00:31
+builder itu enggak diajarin soalnya di sekolah. Gua benci banget sebenarnya kalau anak IT dari dulu dididiknya tuh
+1:00:39
+kerja di startup yang gajinya gede. Udah itu salah itu. I salah. Bukan jadi builder. Harusnya jadi
+1:00:45
+builder kayak di ya. Karena juga sekarang ekosistemnya udah enggak kayak gitu lagi. Iya. Ketika startupnya runtuh runtuh
+1:00:50
+semua. Iya benar. Sekarang gua tanya terakhir deh ngomongin builder. Nah, kenapa kalian percaya coba sama Adit? Enggak ada
+1:00:55
+duitnya padahal di awal ini yang gua lihat peluang sih, Bang. Nah, yang peluangnya gimana?
+1:01:01
+Kalau gua ngelihat duit ya gua gak enggak kelihatan. Enggak ada duitnya kan. Tapi yang gua lihat peluangnya kalau misalkan gua enggak kejar itu ya
+1:01:07
+lewat. Daripada itu lewat gua enggak dapat apa-apa mending ya gua coba aja gua kejar to di-nya kan gua enggak tahu coba aja
+1:01:14
+dulu gitu. I SML gini kan berarti lu join Adit lu bisa jadi ketemu gua kan? Iya betul
+1:01:19
+ccelnya Adit kan. Benar kalau lu enggak kenal Adit lu DM gua apa gua balas elak kan
+1:01:24
+benar benar kan udah kita brutal anes aja di sini enggak kan benar kan? Nah lu apa bro?
+1:01:30
+Ya, sama sih perlu melihat peluang juga karena kalau gerak sendiri kan enggak bisa kan, Bang. Ini mumpung ada ruangnya, ada temannya ya udah kenapa
+1:01:37
+enggak coba bareng gitu. Betul. Nanti lu habis ini bisa ketemu Dea. Iya loh. Bisa ketemu yang lain.
+1:01:44
+Heeh. I yang selama ini lu lihat di layar kaca. Tapi kan ccalnya Adit itu yang enggak pernah dipikirin
+1:01:49
+kalau mikirnya duit terus. Padahal ccelnya siapa tahu nih next time, Bro. Gua ada kerjaan nih gua kasih ke
+1:01:54
+kalian next time ya. Oh iya dong. Iya kan bisa kan. Karena lu kenal. Karena gua kenal. Iya,
+1:01:59
+betul. Nah, closing statement. Kenapa lu janjiin mereka mimpi? Kalau kalau gua sih lebih ke apa ya? Gua
+Penutup: Pesan untuk Komunitas IT
+1:02:07
+senang gua senang ke ketika bareng terus sama orang yang gua percaya.
+1:02:12
+Agree dan gua ketika udah percaya sama orang tersebut, gua akan membawa mereka itu
+1:02:18
+tuh setara sama gua. Jadi bukan as bawahan gitu loh. Oke, mungkin secara leader memang gua harus ng-elit mereka
+1:02:24
+itu enggak bisa enggak. He. Karena kan gimana-gimana kapal kan tetap harus ada leadernya. Betul. Enggak bisa kalau kebanyakan kepala
+1:02:30
+hancur tuh orang pada bunuh-bunuhan di dalam. Jadi ee apa ya? Karena ketika gua udah
+1:02:35
+senang ya gua gimana caranya ngejaga ekosistem ini dan kebetulan mereka bisa engineering, gua bisa juga
+1:02:43
+tapi gua punya market. Lihat siat mereka enggak. Iya gua share lah rezeki itu ke mereka.
+1:02:50
+Iya walaupun awalnya enggak ada. Nah kan tadi Mantapu masuk kan. Makanya ayo kolaborasi ya teman-teman IT dan jadi
+1:02:57
+builder mentalnya. Jangan-jangan musuh-musuhan jangan sindir-sindir. Sindir-sindir di grup di
+1:03:03
+komunitas Facebook. Nah, betul itu. Kita bersatuak usah enggak usah julitlah kawan-kawan.
+1:03:09
+Oke, thank you sudah nonton, Teman-teman semua. Yeah.

@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+langchain-google-genai
+langchain-chroma
+chromadb
+langchain-community
+pypdf
