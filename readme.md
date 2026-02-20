@@ -20,3 +20,9 @@ Chatbot berbasis RAG untuk bertanya tentang konten podcast dari file transcript 
 - Google Gemini AI
 - LangChain
 - ChromaDB
+
+# Link Aplikasi
+https://podcast-rag-chatbot.streamlit.app
+
+# Link GitHub
+https://github.com/MaulanaAjisoko/podcast-rag-chatbot
